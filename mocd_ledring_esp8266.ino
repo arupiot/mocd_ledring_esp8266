@@ -38,8 +38,8 @@ int reset_time = 1*60*60*1000;
 //#define BRIGHTNESS          96
 #define FRAMES_PER_SECOND  120
  
-const char *ssid = "BRITISH_PAVILION_EXHIBITION";
-const char *password = "RLzyYvJeRWp8"; // change to real password
+const char *ssid = "XXX";
+const char *password = "XXXs"; // change to real password
  
 MDNSResponder mdns;
 ESP8266WebServer server ( 80 );
